@@ -1,0 +1,15 @@
+E:\C#\ImageProcess\ImageProcess\bin\Debug\ImageProcess.exe.config
+E:\C#\ImageProcess\ImageProcess\bin\Debug\ImageProcess.exe
+E:\C#\ImageProcess\ImageProcess\bin\Debug\ImageProcess.pdb
+E:\C#\ImageProcess\ImageProcess\bin\Debug\AForge.dll
+E:\C#\ImageProcess\ImageProcess\bin\Debug\AForge.Math.dll
+E:\C#\ImageProcess\ImageProcess\bin\Debug\AForge.xml
+E:\C#\ImageProcess\ImageProcess\bin\Debug\AForge.Math.xml
+E:\C#\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+E:\C#\ImageProcess\ImageProcess\obj\Debug\ImageProcess.Form1.resources
+E:\C#\ImageProcess\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+E:\C#\ImageProcess\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+E:\C#\ImageProcess\ImageProcess\obj\Debug\ImageProcess.exe
+E:\C#\ImageProcess\ImageProcess\obj\Debug\ImageProcess.pdb
+E:\C#\ImageProcess\ImageProcess\bin\Debug\AForge.Imaging.dll
+E:\C#\ImageProcess\ImageProcess\bin\Debug\AForge.Imaging.xml
